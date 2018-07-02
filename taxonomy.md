@@ -14,7 +14,7 @@ Related procudure(s)
 
 Measurement method(s)
 
-Managment method(s) (corrective action)
+Management method(s) (corrective action)
 
 Technological control(s)
 
